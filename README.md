@@ -46,7 +46,7 @@ The project was implemented using **Intel Quartus** for circuit synthesis and **
 
 ## **How to Use**
 1. **View the Lab Report**:
-   - Access the detailed report in `lab_report.pdf`.
+   - Access the detailed report in `dyp5051_eeee120_BSA_FSM.pdf`.
 2. **Analyze the Block Diagrams**:
    - Review FSM, shift registers, and adder designs for a clear understanding of the system.
 3. **Simulate the Circuit**:
