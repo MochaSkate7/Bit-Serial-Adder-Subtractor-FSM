@@ -73,6 +73,3 @@ The circuit successfully performed serial addition and subtraction of 5-bit oper
 - Proper waveform outputs matching theoretical expectations.
 
 ---
-
-## **License**
-This project is shared under the **MIT License**. Feel free to explore and build upon this work.
